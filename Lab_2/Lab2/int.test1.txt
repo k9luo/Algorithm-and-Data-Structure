@@ -1,0 +1,88 @@
+new
+enqueue 1
+enqueue 2
+enqueue 3
+enqueue 4
+enqueue 5
+enqueue 6
+enqueue 7
+enqueue 8
+enqueue 9
+enqueue 0
+size 10
+empty 0
+capacity 10
+dequeue 1
+dequeue 2
+dequeue 3
+dequeue 4
+dequeue 5
+dequeue 6
+dequeue 7
+dequeue 8
+dequeue 9
+dequeue 0
+dequeue!
+size 0
+empty 1
+capacity 10
+delete
+new: 3
+size 0
+empty 1
+capacity 3 
+head!
+dequeue!
+enqueue 1
+enqueue 2
+enqueue 3
+dequeue 1
+size 2
+capacity 3
+enqueue 4
+dequeue 2
+size 2
+capacity 3
+enqueue 5
+enqueue 6
+size 4
+capacity 6
+dequeue 3
+dequeue 4
+dequeue 5
+size 1
+cout
+capacity 3
+dequeue 6
+dequeue!
+size 0 
+delete
+new: 3
+size 0
+enqueue 1
+enqueue 2
+dequeue 1
+enqueue 3
+enqueue 4
+enqueue 5
+dequeue 2
+dequeue 3
+dequeue 4
+enqueue 6
+enqueue 7
+enqueue 8
+enqueue 9
+enqueue 10
+enqueue 11
+capacity 12
+dequeue 5
+dequeue 6
+dequeue 7
+enqueue 12
+dequeue 8
+dequeue 9
+capacity 6
+delete
+summary
+details
+exit

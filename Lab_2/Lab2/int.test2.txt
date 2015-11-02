@@ -1,0 +1,81 @@
+new
+empty 1
+size 0
+list_size 0
+top!
+push 11
+push 12
+push 23
+push 14
+push 15
+push 26
+push 27
+push 28
+top 28
+push 29
+
+list_size 2
+push 30
+push 31
+push 32
+push 33
+push 34
+push 35
+push 36
+push 37
+push 38
+push 39
+push 40
+size 20
+list_size 3
+top 40
+pop 40
+pop 39
+pop 38
+pop 37
+assign
+	list_size 2
+	top 36
+	pop 36
+	pop 35
+	pop 34
+	push 4
+	push 5
+	push 6
+	list_size 2
+	push 7
+	list_size 3
+	push 8
+	push 9
+	push 10
+	delete
+exit
+top 36
+pop 36
+pop 35
+pop 34
+pop 33
+pop 32
+pop 31
+pop 30
+top 29
+cout
+pop 29
+top 28
+size 8
+pop 28
+pop 27
+pop 26
+pop 15
+pop 14
+pop 23
+pop 12
+pop 11
+empty 1
+list_size 0
+top!
+pop!
+cout
+delete
+summary
+exit

@@ -1,0 +1,5 @@
+//Push 17, assign and pop 8, insert 2, pop 4 and reinsert 10, delete and then pop all
+new
+push 17
+assign
+pop 8!
